@@ -68,4 +68,6 @@ I am a Front End Web Developer and a UI/UX Designer <img src="https://media.giph
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creepy-Handy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CreepyHandy&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyHandy)](https://github.com/anuraghazra/github-readme-stats)
