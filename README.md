@@ -45,7 +45,7 @@ I am a Front End Web Developer and a UI/UX Designer <img src="https://media.giph
 
 - :telescope: I’m currently freelancing  and contributing to frontend and and UI designs for building web applications and also designs for mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring The world of Cyber Security.
 
 - :zap: In my free time, I explore the world of designs to get inspirations and increase my skill as a designer.
 
@@ -54,3 +54,9 @@ I am a Front End Web Developer and a UI/UX Designer <img src="https://media.giph
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
