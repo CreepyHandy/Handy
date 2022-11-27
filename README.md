@@ -64,3 +64,7 @@ I am a Front End Web Developer and a UI/UX Designer <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title"Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
